@@ -25,7 +25,7 @@ The more you interact with the chatbot, the more it seems like it could be human
 ## What I Learned
 How to manipulate and then map user input segments to custom responses in a way that seems almost human-like.
 
-## What's next for QHacks Chatbot
+## What's Next
 Adding more responses
 Add response animations and/or delays
 ```
