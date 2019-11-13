@@ -34,8 +34,6 @@ Built With
 - css3
 - jquery
 
-Try it out at
-qhackathon.weebly.com
 ```
 <b>CREATED BY</b>
 Melissa Mangos 
